@@ -1,2 +1,2 @@
-# Planter_With_Devscope
+# Planter
 Clean architecture with azure Devops Implementation 
